@@ -1,0 +1,4 @@
+Hello this is a text file.
+we are using this file to read and write.
+My name is shahid.
+Iam from Hyderabad.
